@@ -7,7 +7,7 @@
     ],
     "dependencies": {
         "@types/leaflet": "^1.9",
-        "svelte": "^3.48.0"
+        "svelte": "^5.53.6"
     },
     "devDependencies": {
         "@types/svelte-leafletjs": "workspace:."
